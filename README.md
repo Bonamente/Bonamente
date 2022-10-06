@@ -63,6 +63,6 @@
 </table>
 
 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+#### :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 [linkedin]: https://www.linkedin.com/in/bonamente 
