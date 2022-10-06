@@ -1,5 +1,5 @@
 # Hello there! 👋 
-## My name is Oleg and I love web technologies.
+## My name is Oleg, and I love web technologies.
 
 ### Tools & languages:
 
