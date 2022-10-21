@@ -1,5 +1,5 @@
 # Hi everyone! 👋 
-## What to say? I love web technologies!
+## My name is Oleg, and I'm a front-end developer currently focused on React and its ecosystem.
 
 ### Tools & Languages:
 
@@ -17,7 +17,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- ### Contact with me  
+ ### How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/heavyeyelids)](https://t.me/heavyeyelids)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mc.slyg00se@gmail.com)](mailto:mc.slyg00se@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bonamente)](https://www.linkedin.com/in/bonamente)
