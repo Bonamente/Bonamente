@@ -1,5 +1,5 @@
 # Hi everyone! 👋 
-## My name is Oleg, and I'm a front-end developer currently focused on React and its ecosystem.
+### My name is Oleg, and I'm a front-end developer currently focused on React and its ecosystem.
 
 ### Tools & Languages:
 
