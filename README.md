@@ -21,6 +21,10 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+### Codewars:
+
+![codewars](https://www.codewars.com/users/Bonamente/badges/large)
+
  ### How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/heavyeyelids)](https://t.me/heavyeyelids)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:2pm2me@gmail.com)](mailto:2pm2me@gmail.com)
